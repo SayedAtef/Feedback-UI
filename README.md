@@ -1,17 +1,29 @@
+# Feedback UI
 
-# Feedback User Interface
+###### Simple feedback component, built with React.
 
-This is a simple project to showcase a react component which is used for feedback 
+### Introduction
 
+This is a simple feedback component, you can create, edit and delete a feedback, you can give rate. this app showcases dealing with React and handling its state.
 
-## To use the code on your local machine
+### Technologies used:
 
-- Download Repo
-- npm install
-- npm start
+- JavaScript
+- CSS
+- React
+- create-react-app
 
-## Appendix
+## Setup
 
-This project was made for learning purposes, how to use react hooks such as useState and useEffect, and handle form in react 
+To run this project, clone or download repo
+install it locally using npm:
 
-### this project was made from React Back To Back course on Udemy
+```
+$ cd ../feedback-ui
+$ npm install
+$ npm start
+```
+
+## Sources
+
+This app is part of React Back to Back course on Udemy by brad traversy.
